@@ -1,0 +1,35 @@
+.global {
+  width : 1024px;
+  margin : 0 auto;
+}
+
+.global .content {
+  display: flex; 
+  justify-content: space-around;
+}
+
+
+
+.error-pane{
+  padding: 8px;
+  background: rgba(255, 168, 168, 0.5);
+  color: #ff6d6d;
+  border: solid 1px #ff6d6d;
+  margin-bottom: 32px;
+}
+
+.success-pane{
+  padding: 8px;
+  background: rgba(162, 204, 174, 0.5);
+  color: #368a54;
+  border: solid 1px #368a54;
+  margin-bottom: 32px;
+}
+
+.hide {
+  display :none;
+}
+
+.welcome-pane{
+  margin-bottom: 32px;
+}
