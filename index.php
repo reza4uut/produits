@@ -21,7 +21,7 @@
   if ($errorMessage){ unset($_SESSION["error_message"]); }
   if ($successMessage){ unset($_SESSION["success_message"]); }
 
-
+//chargement de layout
   $smarty = new monSmarty();
     $smarty->assign("classSuccess", $classSuccess);
     $smarty->assign("successMessage", $successMessage);

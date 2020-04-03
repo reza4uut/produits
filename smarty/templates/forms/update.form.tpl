@@ -22,13 +22,13 @@
   </div>
 
   <div class="input">
-    <label for="comment">comment de produit</label>
+    <label for="comment">comment sur produit</label>
     <div class="input">
       <input type="text" name="comment" value="{$prod.comment}" />
     </div>
   </div>
 
-  <input type="submit" value="Mis à jour ce produit" />
+  <input type="submit" value="mettre à jour ce produit" />
 
 </form>
 

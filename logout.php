@@ -1,4 +1,5 @@
 <?php
+//effacer les session ainsi que valeur
   session_start();
   $error = false;
 

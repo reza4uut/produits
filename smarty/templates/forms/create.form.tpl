@@ -28,5 +28,5 @@
     </div>
   </div>
 
-  <input type="submit" value="Ajoute au BdDt" />
+  <input type="submit" value="Ajoute au BdD" />
 </form>
